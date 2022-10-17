@@ -1,5 +1,5 @@
 # Election_Analysis
-##Overview of Election Audit
+## Overview of Election Audit
 
 The purpose of the this election audit analysis is to organize the voting information for multiple different purposes. Firstly, to see which candidate was the victor of the election and the amount of votes and percentage of the total vote the victor as well as the other candidates recieved. Also, the audit allows for analysis by county, displaying what percentage of the total vote each county accounted for as well as total votes cast by each county. This also allowed for the county with the largest voter turnout to be recognized. A figure for the total votes tallied in the election was also produced by the audit.
 
