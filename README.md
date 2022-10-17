@@ -19,7 +19,8 @@ The purpose of the this election audit analysis is to organize the voting inform
 - Raymon Anthony Doane recieved 3.1% of the total vote with 11,606 votes
 - Diana DeGette won this election recieving 73.8% of the total vote, accruing 272,892 votes
 
-!(https://user-images.githubusercontent.com/107508210/176798503-a8b22320-0bf9-4f7e-b544-7eca59d62455.png)
+![Screen Shot 2022-10-17 at 1 30 42 PM](https://user-images.githubusercontent.com/108902185/196244097-3e859da2-30b4-4e39-b6c0-a7391110a554.png)
+
 
 ## Election-Audit Summary
 
